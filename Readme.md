@@ -9,3 +9,6 @@ Accuracy: 94.2%
 Tools: Streamlit-Cloud
 
 Libraries Used: TFlite, Tensorflow, Sklearn, numpy, pandas, streamlit
+
+
+Made by: Shantanu Goyal (2019UCS2026), Sujal Goel (2019UCS2014), Anureet Kaur (2019UCS2037)
